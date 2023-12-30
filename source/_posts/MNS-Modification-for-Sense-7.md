@@ -1,39 +1,35 @@
-title: Sense 7 常用修改：MNS配置
+title: Sense 7 常用修改：MNS 配置
 date: 2015-12-27 22:01:45
 categories:
-- 教程
+- Tutorial
 tags:
-- 教程
-- Sense
+- Tutorial
+- HTC Sense
 ---
 
-上篇文章讲的是`/system/customize/CID`下的修改，这篇文章主要是`/system/customize/MNS`下的。
+上篇文章讲的是 `/system/customize/CID` 下的修改，这篇文章主要是 `/system/customize/MNS` 下的。
 
-MNS目录下也是一个名为default.xml的文件，主要是一些杂项的修改，比如默认系统地区、时钟地区、浏览器书签、系统输入法设置、邮件配置、时间格式、温度制式等。
+MNS 目录下也是一个名为 `default.xml` 的文件，主要是一些杂项的修改，比如默认系统地区、时钟地区、浏览器书签、系统输入法设置、邮件配置、时间格式、温度制式等。
 
 下面直接切入重点。
-
-<br>
 
 <!-- more -->
 
 # 默认温度制式 #
 
-搜索`temprature_unit`，找到如下代码：
+搜索 `temprature_unit`，找到如下代码：
 
 ``` xml
 <item name="temprature_unit">f</item>
 ```
 
-f为华氏度，c为摄氏度。
+`f` 为华氏度，`c` 为摄氏度。
 
-由于国内使用摄氏度，因此这里一般改为c。
-
-<br>
+由于国内使用摄氏度，因此这里一般改为 `c`。
 
 # 世界时钟地区 #
 
-搜索`weather_provider`，找到类似于下面的代码：
+搜索 `weather_provider`，找到类似于下面的代码：
 
 ``` xml
     <module name="weather_provider">
@@ -70,15 +66,13 @@ f为华氏度，c为摄氏度。
     </module>
 ```
 
-这里每一个`function`为一个地区，即时钟应用里，世界时钟选项的显示项。
+这里每一个 `function` 为一个地区，即时钟应用里，世界时钟选项的显示项。
 
 考虑到一般人不需要默认显示其他地区时间，建议将整段代码删除。或者修改为你希望的默认值。
 
-<br>
-
 # 系统自带邮件配置 #
 
-搜索`name="Mail"`，找到类似于下面的代码：
+搜索 `name="Mail"`，找到类似于下面的代码：
 
 ``` xml
     <module name="Mail">
@@ -282,7 +276,7 @@ f为华氏度，c为摄氏度。
     </module>
 ```
 
-这里是系统自带的邮件应用的默认配置，可以参考国行的配置文件修改，这里提供M9国行2.11.1405.5的配置信息：
+这里是系统自带的邮件应用的默认配置，可以参考国行的配置文件修改，这里提供 M9 国行 2.11.1405.5 的配置信息：
 
 ``` xml
     <module name="Mail">
@@ -539,13 +533,11 @@ f为华氏度，c为摄氏度。
     </module>
 ```
 
-<br>
-
 # 浏览器主页和书签 #
 
-这里的浏览器，指的是HTC自带浏览器（名为互联网那个），现在台版、开发者版默认已经不带这个应用，改为Chrome替代了。
+这里的浏览器，指的是 HTC 自带浏览器（名为互联网那个），现在台版、开发者版默认已经不带这个应用，改为 Chrome 替代了。
 
-提供国行2.11.1405.5的配置信息：
+提供国行 2.11.1405.5 的配置信息：
 
 ``` xml
     <module name="Browser">
@@ -594,11 +586,9 @@ f为华氏度，c为摄氏度。
     </module>
 ```
 
-<br>
-
 # 默认系统时间格式 #
 
-搜索`defaultTimeFormatSetting`，找到如下代码：
+搜索 `defaultTimeFormatSetting`，找到如下代码：
 
 ``` xml
     <module name="defaultTimeFormatSetting">
@@ -636,11 +626,9 @@ f为华氏度，c为摄氏度。
     </module>
 ```
 
-<br>
-
 # 默认输入法配置 #
 
-搜索`defaultInputMethod`，找到如下代码：
+搜索 `defaultInputMethod`，找到如下代码：
 
 ``` xml
     <module name="defaultInputMethod">
@@ -698,14 +686,12 @@ f为华氏度，c为摄氏度。
 
 这样，默认提供拼音、手写和笔画三个选择，且默认为拼音输入法。
 
-<br>
-
 # 默认系统地区 #
 
-搜索`defaultLocale`，找到如下代码：
+搜索 `defaultLocale`，找到如下代码：
 
 ``` xml
 <item name="defeault">en_US</item>
 ```
 
-将值改为zh_CN，则地区默认为中国大陆。
+将值改为 `zh_CN`，则地区默认为中国大陆。

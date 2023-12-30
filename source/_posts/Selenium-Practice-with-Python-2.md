@@ -1,26 +1,26 @@
 ---
-title: 基于Python的Selenium自动化实践心得2
+title: 基于 Python 的 Selenium 自动化实践心得 II
 date: 2017-04-25 10:03:04
 categories:
-- 测试
+- Test
 tags:
-- 测试
+- Test
 - Selenium
 - WebDriver
 - Python
 ---
 
-之前一篇文章《[基于Python的Selenium自动化实践心得](http://ntflc.com/2017/03/17/Selenium-Practice-with-Python/)》讲了Selenium的常用操作和无界面使用Selenium，这篇文章则重点讲讲Selenium与unittest结合。
+之前一篇文章 [基于Python的Selenium自动化实践心得](/2017/03/17/Selenium-Practice-with-Python/) 讲了 Selenium 的常用操作和无界面使用 Selenium，这篇文章则重点讲讲 Selenium 与 unittest 结合。
 
-关于unittest，这里不做过多介绍，不了解的可以去Google一下。
+关于 unittest，这里不做过多介绍，不了解的可以去 Google 一下。
 
 <!-- more -->
 
-# unittest下的setUp()、tearDown()
+# unittest 下的 setUp() 和 tearDown()
 
-在Python的unittest官方文档里（[https://docs.python.org/2/library/unittest.html](https://docs.python.org/2/library/unittest.html)），有关于setUp()、tearDown()、setUpClass()、tearDownClass()的介绍。
+在 Python 的 unittest 官方文档里（[https://docs.python.org/2/library/unittest.html](https://docs.python.org/2/library/unittest.html)），有关于 setUp()、tearDown()、setUpClass()、tearDownClass() 的介绍。
 
-简单来说，在执行unittest最开始，会先执行setUpClass()，最后会执行tearDownClass()，也就是各执行一次。而每个case前都会执行setUp()，之后都会执行tearDown()。
+简单来说，在执行 unittest 最开始，会先执行 setUpClass()，最后会执行 tearDownClass()，也就是各执行一次。而每个 case 前都会执行 setUp()，之后都会执行 tearDown()。
 
 举个例子：
 
@@ -62,11 +62,11 @@ tearDown
 tearDownClass
 ```
 
-其中setUpClass()和tearDownClass()必须用@classmethod修饰，且第一个参数为cls。
+其中 setUpClass() 和 tearDownClass() 必须用 `@classmethod` 修饰，且第一个参数为 `cls`。
 
-# 在setUpClass()和tearDownClass()中调用Selenium
+# 在 setUpClass() 和 tearDownClass() 中调用 Selenium
 
-对于每一组unittest，只需要启动一次Selenium。因此将启动命令放到setUpClass()中，将关闭命令放到tearDownClass()中。即：
+对于每一组 unittest，只需要启动一次 Selenium。因此将启动命令放到 setUpClass() 中，将关闭命令放到 tearDownClass() 中。即：
 
 ``` python
 class MyTest(unittest.TestCase):
@@ -87,7 +87,7 @@ class MyTest(unittest.TestCase):
 
 # 用例失败时自动截图
 
-有的时候，用例会失败，这时我们希望能够自动获取截图。这里是针对每一个用例的，因此可以放在tearDown()中。截图的文件名可以用case的id，如上面的代码片段，文件名即为testcase。在case中，`self.id()`能获取到当前case的id，如上面的代码片段，testcase对应的id为`test.MyTest.testcase`。实际是我们只需要testcase，因此可以通过`testcase_name = self.id().split(".")[-1]`来获取。
+有的时候，用例会失败，这时我们希望能够自动获取截图。这里是针对每一个用例的，因此可以放在 tearDown() 中。截图的文件名可以用 case 的 id，如上面的代码片段，文件名即为 testcase。在 case 中，`self.id()` 能获取到当前 case 的 id，如上面的代码片段，testcase 对应的 id 为 `test.MyTest.testcase`。实际是我们只需要 testcase，因此可以通过 `testcase_name = self.id().split(".")[-1]` 来获取。
 
 代码示例：
 
@@ -114,9 +114,9 @@ class MyTest(unittest.TestCase):
         cls.driver.quit()
 ```
 
-# unittest测试框架实现参数化
+# unittest 测试框架实现参数化
 
-如果直接用unittest，同一个case想跑不同的数据，每一组数据都得对应一个独立的case函数。如我现在想要判断1+i(1<=i<=5)的结算结果是否正确，只能写成：
+如果直接用 unittest，同一个 case 想跑不同的数据，每一组数据都得对应一个独立的 case 函数。如我现在想要判断 `1 + i (1 <= i <= 5)` 的结算结果是否正确，只能写成：
 
 ``` python
 class MyTest(unittest.TestCase):
@@ -138,9 +138,9 @@ class MyTest(unittest.TestCase):
 
 这显然是不可行的。
 
-[parameterized](https://github.com/wolever/parameterized)是一个针对Python单元测试框架的参数化实现，除了支持unittest，也支持nose、py.test等其他框架。
+[parameterized](https://github.com/wolever/parameterized) 是一个针对 Python 单元测试框架的参数化实现，除了支持 unittest，也支持 nose、py.test 等其他框架。
 
-对于unittest，针对上面那个例子，可以写成：
+对于 unittest，针对上面那个例子，可以写成：
 
 ``` python
 class MyTest(unittest.TestCase):
@@ -156,7 +156,7 @@ class MyTest(unittest.TestCase):
         self.assertEquals(1 + i, rst)
 ```
 
-其中，@parameterized.expand中每个tulpe的第一个元素可以认为是case名。上述5个case的id会自动变成：
+其中，`@parameterized.expand` 中每个 tulpe 的第一个元素可以认为是 case 名。上述 5 个 case 的 id 会自动变成：
 
 ```
 test.MyTest.testcase_0_1add1
@@ -166,4 +166,4 @@ test.MyTest.testcase_3_1add4
 test.MyTest.testcase_4_1add5
 ```
 
-有了parameterized，就可以针对一个case定制不同的数据了。
+有了 parameterized，就可以针对一个 case 定制不同的数据了。

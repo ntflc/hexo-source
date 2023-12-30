@@ -5,7 +5,6 @@ categories:
 - NAS
 tags:
 - NAS
-- 群晖
 - Synology
 - qBittorrent
 ---
@@ -47,14 +46,20 @@ zhangbo8418 编译版本的 qBittorrent 配置和数据均在 `/volume1/@appstor
 接着就可以通过 SSH 来访问和操作 NAS 上的目录了。接下来是具体步骤：
 
 1. 在套件中心停用 qBittorrent
-
 2. SSH 到 NAS 上，切换到 ROOT 用户：`sudo -iu root`，不使用 ROOT 用户无法访问套件目录（套件目录的 owner 是套件本身）
-
-3. 复制配置文件：`cp /volume1/homes/admin/.config/qBittorrent/*.conf /volume1/@appstore/qBittorrent/qBittorrent_conf/config`
-
-4. 复制数据文件：`cp -r /volume1/homes/admin/.local/share/data/qBittorrent/BT_backup/* /volume1/@appstore/qBittorrent/qBittorrent_conf/data/BT_backup`
-
-5. 将上述复制后文件的 owner 改为 qBittorrent：`chown qBittorrent:qBittorrent /volume1/@appstore/qBittorrent/qBittorrent_conf/config/*`、`chown qBittorrent:qBittorrent /volume1/@appstore/qBittorrent/qBittorrent_conf/data/BT_backup/*`
+3. 复制配置文件：
+   ```
+   cp /volume1/homes/admin/.config/qBittorrent/*.conf /volume1/@appstore/qBittorrent/qBittorrent_conf/config
+   ```
+4. 复制数据文件：
+   ```
+   cp -r /volume1/homes/admin/.local/share/data/qBittorrent/BT_backup/* /volume1/@appstore/qBittorrent/qBittorrent_conf/data/BT_backup
+   ```
+5. 将上述复制后文件的 owner 改为 qBittorrent：
+   ```
+   chown qBittorrent:qBittorrent /volume1/@appstore/qBittorrent/qBittorrent_conf/config/*
+   chown qBittorrent:qBittorrent /volume1/@appstore/qBittorrent/qBittorrent_conf/data/BT_backup/*
+   ```
 
 最后一步是最重要的，如果不修改 owner 信息，启用 qBittorrent 会报错。所有操作完成后，启动 qBittorrent 即可。
 

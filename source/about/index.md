@@ -1,20 +1,47 @@
 ---
-title: 关于我
+title: About Me
 date: 2016-03-20 23:39:30
 comments: false
 ---
 
-本人越昂超英，出生于 1994 年，江苏南通人。
+<style>
+    table, td {
+        border: none;
+    }
+    table {
+        width: 80%;
+    }
+</style>
 
-教育经历：
-> 2012-2016 北京理工大学 物联网工程
+Hi! My name is **Lichao Fei** (aka **@ntflc** elsewhere).
 
-工作经历：
-> 2016.7-2017.4 猎豹移动 测试工程师
-> 2017.4 至今 美团 测试开发工程师
+Education:
 
-之前因为爱玩手机，所以做过一段时间的 HTC 第三方 ROM，但后来由于各种原因不再继续。曾经是机锋论坛 HTC One (M8)、HTC One M9 版块的版主。
+<table>
+    <tr>
+        <td>2012-2016</td>
+        <td><strong>Beijing Institute of Technology</strong></td>
+        <td>Internet of Things Engineering</td>
+    </tr>
+</table>
 
-本博客主要包括与手机刷机相关的教程和资源，测试相关的内容，数码产品相关的内容，以及一些随笔。
+Work Experience:
 
-如果你想联系我，可以通过微博[@越昂超英 ](https://weibo.com/412070391)或邮件[ntflc@126.com](mailto:ntflc@126.com)。
+<table>
+    <tr>
+        <td>2016.07-2017.04</td>
+        <td><strong>Cheetah Mobile</strong></td>
+        <td>Software Test Engineer</td>
+    </tr>
+    <tr>
+        <td>2017.04-present</td>
+        <td><strong>Meituan</strong></td>
+        <td>Software QA Engineer</td>
+    </tr>
+</table>
+
+Due to my passion for mobile devices, I dedicated a period to developing custom ROMs for HTC smartphones. However, for various reasons, I eventually discontinued this endeavor.  I previously served as a moderator for the HTC One (M8) and HTC One M9 sections on Gfan forum (机锋论坛).
+
+This blog primarily features tutorials and resources related to mobile device firmware flashing, software testing-related content, digital product discussions, as well as some personal essays.
+
+You can reach out to me via Weibo [@越昂超英](https://weibo.com/412070391) or through email [ntflc@126.com](mailto:ntflc@126.com).
