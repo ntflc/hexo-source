@@ -7,7 +7,7 @@ tags:
 - MaximusHD
 - M9
 ---
-![](http://i.imgur.com/XhWBAib.png)
+![](/images/HTC-One-M9-MaximusHD-4-0/0.png)
 
 # ROM 引读 #
 - 感谢 @大款小总、@HTC-G11-black、@溜達哙ル（溜达会儿）、@519ljh（阿飞）、@Dave、@久龙颜、@Billgates-li、@kufeen 等人的支持与帮助。
@@ -118,10 +118,10 @@ tags:
 下载后请注意校验文件信息，文件校验信息放在网盘里。
 
 # ROM 截图 #
-![](http://ww2.sinaimg.cn/bmiddle/68e1aca9jw1eswu27f8nwj20u01hcgqt.jpg)
-![](http://ww2.sinaimg.cn/bmiddle/68e1aca9jw1eswu28399lj20u01hcgst.jpg)
-![](http://ww1.sinaimg.cn/bmiddle/68e1aca9jw1eswu28k13oj20u01hcapr.jpg)
-![](http://ww4.sinaimg.cn/bmiddle/68e1aca9jw1eswu28xlkwj20u01hck0h.jpg)
-![](http://ww4.sinaimg.cn/bmiddle/68e1aca9jw1eswu29asg3j20u01hcwuf.jpg)
-![](http://ww4.sinaimg.cn/bmiddle/68e1aca9jw1eswu29tgp4j20u01hcwhw.jpg)
-![](http://ww2.sinaimg.cn/bmiddle/68e1aca9jw1eswu2a396kj20u01hc0wi.jpg)
+![](/images/HTC-One-M9-MaximusHD-4-0/1.jpg)
+![](/images/HTC-One-M9-MaximusHD-4-0/2.jpg)
+![](/images/HTC-One-M9-MaximusHD-4-0/3.jpg)
+![](/images/HTC-One-M9-MaximusHD-4-0/4.jpg)
+![](/images/HTC-One-M9-MaximusHD-4-0/5.jpg)
+![](/images/HTC-One-M9-MaximusHD-4-0/6.jpg)
+![](/images/HTC-One-M9-MaximusHD-4-0/7.jpg)

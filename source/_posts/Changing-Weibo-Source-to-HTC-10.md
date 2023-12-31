@@ -32,7 +32,7 @@ ro.product.model=HTC M10u
 
 最后登录微博，发一条微博确认尾巴正确后，即可覆盖安装最新版微博了。
 
-![](http://ww4.sinaimg.cn/large/68e1aca9jw1f2po6hskooj20u01hcn0w.jpg)
+![](/images/Changing-Weibo-Source-to-HTC-10/1.jpg)
 
 **常见问题：**
 

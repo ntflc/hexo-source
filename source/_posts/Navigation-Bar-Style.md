@@ -43,7 +43,7 @@ HTC One M8 初版发布
 由于不能保证所有的 ROM 都适用，建议刷此包之前先备份现有系统。
 
 # 截图 #
-![](http://ww1.sinaimg.cn/large/68e1aca9jw1esgwswyxnoj20u01k0tbq.jpg)
+![](/images/Navigation-Bar-Style/1.jpg)
 
 # 下载地址 #
 ## M8 ##

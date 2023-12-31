@@ -122,10 +122,10 @@ tags:
 下载后请注意校验文件信息，文件校验信息放在网盘里。
 
 # ROM 截图 #
-![](http://i.imgur.com/8KZNmoF.png)
-![](http://i.imgur.com/76F5OWD.png)
-![](http://i.imgur.com/927x6J3.jpg)
-![](http://i.imgur.com/KhfFMrv.png)
-![](http://i.imgur.com/6F0pxkz.png)
-![](http://i.imgur.com/4WOA9Sl.png)
-![](http://i.imgur.com/TG0DSzV.png)
+![](/images/HTC-One-M9-NTFLC-ROM-N1-0/1.png)
+![](/images/HTC-One-M9-NTFLC-ROM-N1-0/2.png)
+![](/images/HTC-One-M9-NTFLC-ROM-N1-0/3.jpg)
+![](/images/HTC-One-M9-NTFLC-ROM-N1-0/4.png)
+![](/images/HTC-One-M9-NTFLC-ROM-N1-0/5.png)
+![](/images/HTC-One-M9-NTFLC-ROM-N1-0/6.png)
+![](/images/HTC-One-M9-NTFLC-ROM-N1-0/7.png)

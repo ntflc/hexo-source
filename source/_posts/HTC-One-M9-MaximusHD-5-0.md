@@ -127,11 +127,11 @@ tags:
 下载后请注意校验文件信息，文件校验信息放在网盘里。
 
 # ROM 截图 #
-![](http://i.imgur.com/hUFh9xF.png)
-![](http://i.imgur.com/durHOBG.png)
-![](http://i.imgur.com/wsYX8r9.png)
-![](http://i.imgur.com/EF39U60.jpg)
-![](http://i.imgur.com/jqc5e8M.png)
-![](http://i.imgur.com/ErKyNtu.png)
-![](http://i.imgur.com/YvfkV2D.png)
-![](http://i.imgur.com/b2wQte1.png)
+![](/images/HTC-One-M9-MaximusHD-5-0/1.png)
+![](/images/HTC-One-M9-MaximusHD-5-0/2.png)
+![](/images/HTC-One-M9-MaximusHD-5-0/3.png)
+![](/images/HTC-One-M9-MaximusHD-5-0/4.jpg)
+![](/images/HTC-One-M9-MaximusHD-5-0/5.png)
+![](/images/HTC-One-M9-MaximusHD-5-0/6.png)
+![](/images/HTC-One-M9-MaximusHD-5-0/7.png)
+![](/images/HTC-One-M9-MaximusHD-5-0/8.png)
