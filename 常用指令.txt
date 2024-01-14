@@ -1,5 +1,0 @@
-hexo new "Ãû³Æ"
-hexo new page "Ãû³Æ"
-hexo generate
-hexo server
-hexo deploy
