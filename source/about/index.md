@@ -10,4 +10,4 @@ I am currently a Software Development Engineer in Test. I was a former HTC custo
 
 This blog primarily features tutorials and resources related to mobile device firmware flashing, software testing-related content, digital product discussions, as well as some personal essays.
 
-You can reach out to me via Weibo [@越昂超英](https://weibo.com/feilichao) or through email <ntflc.bit@gmail.com>.
+You can reach out to me via Weibo [@越昂超英](https://weibo.com/feilichao), IG [@ntflc.bit](https://www.instagram.com/ntflc.bit/) or through email <ntflc.bit@gmail.com>.
