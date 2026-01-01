@@ -5,6 +5,7 @@ categories:
 - Essay
 tags:
 - Essay
+alias: /2022/01/02/Overview-of-2021/
 ---
 
 这是年度回顾补全计划的第一篇。考虑到 2018 到 2021 年都没有写回顾博客，但微博或朋友圈多多少少分享过一些，便想着基于这些内容扩充下。本篇回顾写于 2024 年 1 月，主要内容取自 22 年 1 月微博发的回顾，做了些扩充。回顾 2021 年，国内疫情缓和，除了不能出国，其他几乎没什么限制。
@@ -22,13 +23,13 @@ tags:
 第一次在动森里过了生日，一次特别的体验。
 
 {% gp 2-2 %}
-![](/images/Overview-of-2021/1.png)
-![](/images/Overview-of-2021/2.png)
+![](/images/2021-Review/1.png)
+![](/images/2021-Review/2.png)
 {% endgp %}
 
 由于老家的政策，春节回家前第一次做了核酸检测，还是鼻拭子，太酸爽了。除夕在盒马买了只帝王蟹，两家人（我家每年都是和我小姨一家一起过除夕）一起分享，可惜有点失望，感觉味道和梭子蟹类似。
 
-![](/images/Overview-of-2021/3.jpg)
+![](/images/2021-Review/3.jpg)
 
 回上海后，在遍地日料店的古北找到家价位不高的 omakase，很奇妙的体验。
 
@@ -41,14 +42,14 @@ tags:
 月底和大学同学一起去浙江莫干山、千岛湖玩了三天，疫情后的第一次出游。
 
 {% gp 8-6 %}
-![](/images/Overview-of-2021/4.jpg)
-![](/images/Overview-of-2021/5.jpg)
-![](/images/Overview-of-2021/6.jpg)
-![](/images/Overview-of-2021/7.jpg)
-![](/images/Overview-of-2021/8.jpg)
-![](/images/Overview-of-2021/9.jpg)
-![](/images/Overview-of-2021/10.jpg)
-![](/images/Overview-of-2021/11.jpg)
+![](/images/2021-Review/4.jpg)
+![](/images/2021-Review/5.jpg)
+![](/images/2021-Review/6.jpg)
+![](/images/2021-Review/7.jpg)
+![](/images/2021-Review/8.jpg)
+![](/images/2021-Review/9.jpg)
+![](/images/2021-Review/10.jpg)
+![](/images/2021-Review/11.jpg)
 {% endgp %}
 
 # 四月
@@ -58,15 +59,15 @@ tags:
 于是想着趁有时间，请假出去玩玩。正好当武警的表弟休假，就带着两家人一起去了长沙。说实话，去之前并没有抱太大希望（因为不吃辣），结果却是满满的惊喜，特别是茶颜悦色。由于我们是清明假期后去的，人没有那么多，体验很好。
 
 {% gp 9-7 %}
-![](/images/Overview-of-2021/12.jpg)
-![](/images/Overview-of-2021/13.jpg)
-![](/images/Overview-of-2021/14.jpg)
-![](/images/Overview-of-2021/15.jpg)
-![](/images/Overview-of-2021/16.jpg)
-![](/images/Overview-of-2021/17.jpg)
-![](/images/Overview-of-2021/18.jpg)
-![](/images/Overview-of-2021/19.jpg)
-![](/images/Overview-of-2021/20.jpg)
+![](/images/2021-Review/12.jpg)
+![](/images/2021-Review/13.jpg)
+![](/images/2021-Review/14.jpg)
+![](/images/2021-Review/15.jpg)
+![](/images/2021-Review/16.jpg)
+![](/images/2021-Review/17.jpg)
+![](/images/2021-Review/18.jpg)
+![](/images/2021-Review/19.jpg)
+![](/images/2021-Review/20.jpg)
 {% endgp %}
 
 从长沙玩完，正好回家参加了高中大学同校不同班的同学的婚礼。
@@ -86,9 +87,9 @@ tags:
 端午节花了一个多小时从长宁跑到浦东金桥的 LaLaport，看到了 1:1 的高达。其实 19 年去东京已经看过台场的高达，这次终于到国内了。
 
 {% gp 3-2 %}
-![](/images/Overview-of-2021/21.jpg)
-![](/images/Overview-of-2021/22.jpg)
-![](/images/Overview-of-2021/23.jpg)
+![](/images/2021-Review/21.jpg)
+![](/images/2021-Review/22.jpg)
+![](/images/2021-Review/23.jpg)
 {% endgp %}
 
 中旬，转岗前去北京出差交接。虽然有 3 天，但行程排得满满当当：和接手的同事交接了工作，见了一年多未见的老同事、后来加入却未谋面的新同事，约了好几顿饭。顺带把北京医保里剩余的钱取出来。回上海后，又请上海的同事吃了饭，月底终于转去了新团队。
@@ -114,15 +115,15 @@ tags:
 趁着国庆尾巴，又请了几天假，和 HYJ 去武汉玩了几天。错峰出行人不多，天气也比较凉爽，甚至刚到的那晚有点冷。体验了武汉人的过早，吃到了热干面、三鲜豆皮，以及心心念念的油饼包烧麦和鸡冠饺，简直是碳水爱好者的圣地。靓靓蒸虾也是名副其实，原味蒸虾配上特制酱汁，非常满足。来武汉前知道武汉有茶颜悦色，但不知道有这么多，汉江路步行街至少就看到四五家，可惜每家都得排二三十分钟，买完还得再等二十分钟，但还是喝了好几杯（笑）。晚上的长堤街很繁华，各种小吃排挡，可惜实在是吃不下了。武汉大学装了人脸识别进不去，只能抱憾而归。黄鹤楼本打算拍个照就走，结果本着“来都来了”的心态还是登上去了。夜乘轮渡过江别有一番风味，两岸建筑的灯光效果很漂亮。
 
 {% gp 9-7 %}
-![](/images/Overview-of-2021/24.jpg)
-![](/images/Overview-of-2021/25.jpg)
-![](/images/Overview-of-2021/26.jpg)
-![](/images/Overview-of-2021/27.jpg)
-![](/images/Overview-of-2021/28.jpg)
-![](/images/Overview-of-2021/29.jpg)
-![](/images/Overview-of-2021/30.jpg)
-![](/images/Overview-of-2021/31.jpg)
-![](/images/Overview-of-2021/32.jpg)
+![](/images/2021-Review/24.jpg)
+![](/images/2021-Review/25.jpg)
+![](/images/2021-Review/26.jpg)
+![](/images/2021-Review/27.jpg)
+![](/images/2021-Review/28.jpg)
+![](/images/2021-Review/29.jpg)
+![](/images/2021-Review/30.jpg)
+![](/images/2021-Review/31.jpg)
+![](/images/2021-Review/32.jpg)
 {% endgp %}
 
 月底因为公司即将从长宁搬到杨浦，跑到公司新办公楼附近看了圈房，要么贵、要么远，最后决定租在浦东大道附近。虽然在浦东，但离公司就两站地铁，位置也比较便利，离陆家嘴中心地带也就 2 公里。

@@ -5,6 +5,7 @@ categories:
 - Essay
 tags:
 - Essay
+alias: /2017/01/02/Overview-of-2016/
 ---
 
 好久没有写点东西了，看到好多同学、朋友都写了 2016 年的总结亦或是回顾，总觉得我也应该写点什么。

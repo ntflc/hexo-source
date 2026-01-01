@@ -5,6 +5,7 @@ categories:
 - Essay
 tags:
 - Essay
+alias: /2025/01/01/Overview-of-2024/
 ---
 
 2024 年对我而言是个全新的开始，离开了生活了 30 年的国内，来到了新加坡。去了三个国家旅行：日本的宇治、奈良、神户，澳大利亚的塔斯马尼亚、悉尼，马来西亚的新山、槟城、吉隆坡。在电影院看了 38 场电影，国内 10 场，新加坡 28 场。完成了两次 8 公里以上的徒步，一次 5 公里跑。
@@ -22,8 +23,8 @@ tags:
 1 月底工作签下来后，就找宇哥沟通离职时间，敲定了 3 月 8 日为 Last day。离职前宇哥约大家吃了顿散伙饭，我也给同事准备了礼物。于是就这样，我离开了工作近 7 年的美团。
 
 {% gp 2-2 %}
-![](/images/Overview-of-2024/1.jpg)
-![](/images/Overview-of-2024/2.jpg)
+![](/images/2024-Review/1.jpg)
+![](/images/2024-Review/2.jpg)
 {% endgp %}
 
 不过这里还发生了不愉快的小插曲。因为美团是 4 月初发 3 月工资时才发年终奖，但我 3 月初就离职，等到 4 月也没收到年终奖。联系了宇哥，得知 x2 Leader 给了不及预期的绩效，因此没有年终奖。我自认为去年工作完成得不错，在美团近 7 年绩效也都良好，于是便开启了长达半年的仲裁和诉讼。先是劳动仲裁，判美团赔偿完整年终奖，结果美团不服上诉。后是诉讼，法院也是维持了劳动仲裁的结论。终于在 11 月底，我才拿到了本属于我的年终奖。这期间感谢父母作为代理人往返于南通和上海，帮忙沟通，不然我可能也不会坚持下来。
@@ -32,7 +33,7 @@ tags:
 
 离开美团后，过了一周就飞往新加坡，月底就入职了。没错，去年底拿到的 Offer 就是新加坡 TikTok。因为党大佬 23 年就是拿了 TikTok 的 Offer 直接从国内到了新加坡，去年去新加坡玩完后，也就给我内推了。
 
-![](/images/Overview-of-2024/3.jpg)
+![](/images/2024-Review/3.jpg)
 
 入职后，发现和我预期的还是有些差别。组里大概 10 个人，但基本都是对接国内字节的团队，中国人、新加坡人、马来西亚人都有，但工作上基本还是以中文为主。我对接的 PM、RD、QA 都在国内，分布在北京、上海、杭州、深圳。工作内容和在美团差别也比较大，但基本也适应了下来。
 
@@ -68,9 +69,9 @@ tags:
 接着便是租房。新加坡租房和国内差别有些大，这边的房东会和固定中介合作，中介费用由房东出。如果不想折腾，可以找租户中介，帮忙联系看房，但会收一个月的房租作为中介费；如果愿意折腾，可以自己在 [PropertyGuru](https://www.propertyguru.com.sg/) 等平台联系房东中介约时间看房，只是没法像国内一天看一堆房源。最后租下了 Farrer Park 附近的一居公寓，月租金 3200 新币。
 
 {% gp 3-3 %}
-![](/images/Overview-of-2024/4.jpg)
-![](/images/Overview-of-2024/5.jpg)
-![](/images/Overview-of-2024/6.jpg)
+![](/images/2024-Review/4.jpg)
+![](/images/2024-Review/5.jpg)
+![](/images/2024-Review/6.jpg)
 {% endgp %}
 
 由于房东只提供了床和沙发，缺少其他家具，便在本地 IKEA 买了些家具，也从国内海淘了不少家具家电。IKEA 买了餐桌椅、电脑桌，国内海运了书柜、电视柜、人体工学椅和扫地机器人，还在本地买了 LG C3 电视。
@@ -78,10 +79,10 @@ tags:
 宽带选择了 Singtel 家的 1 Gbps 上下线对等，2 年合约，每个月 45 新币左右。
 
 {% gp 4-3 %}
-![](/images/Overview-of-2024/7.jpg)
-![](/images/Overview-of-2024/8.jpg)
-![](/images/Overview-of-2024/9.jpg)
-![](/images/Overview-of-2024/10.jpg)
+![](/images/2024-Review/7.jpg)
+![](/images/2024-Review/8.jpg)
+![](/images/2024-Review/9.jpg)
+![](/images/2024-Review/10.jpg)
 {% endgp %}
 
 ## 户外
@@ -89,24 +90,24 @@ tags:
 6 月中，挑战了新加坡热门的徒步路线~~卖荔枝~~（划掉）麦里芝水库（MacRitchie Reservoir）。麦里芝本身难度不高，但线路比较原始自然，对于我这种怕蛇的人来说简直是灾难。好在我这次只遇到了蜥蜴、猴子等，没遇到蛇。
 
 {% gp 3-3 %}
-![](/images/Overview-of-2024/11.jpg)
-![](/images/Overview-of-2024/12.jpg)
-![](/images/Overview-of-2024/13.jpg)
+![](/images/2024-Review/11.jpg)
+![](/images/2024-Review/12.jpg)
+![](/images/2024-Review/13.jpg)
 {% endgp %}
 
 7 月，又去了东海岸徒步，8 公里配速进了 8 分钟。东海岸是新加坡少有的有自行车道的地方，非常适合周末放空。
 
 {% gp 2-2 %}
-![](/images/Overview-of-2024/14.jpg)
-![](/images/Overview-of-2024/15.jpg)
+![](/images/2024-Review/14.jpg)
+![](/images/2024-Review/15.jpg)
 {% endgp %}
 
 11 月，参加了 Doraemon Run 2024，这是我第一次跑 5 公里。之前减重靠的都是快走，20 公里都能走下来，但跑步一直是我的弱项，主要是耐力不够。这次 Doraemon Run 属于非竞赛类活动，就尝试了下低配速，最后成功以 6 分钟配速跑完。以后可以尝试下 10 公里。
 
 {% gp 3-3 %}
-![](/images/Overview-of-2024/16.jpg)
-![](/images/Overview-of-2024/17.jpg)
-![](/images/Overview-of-2024/18.jpg)
+![](/images/2024-Review/16.jpg)
+![](/images/2024-Review/17.jpg)
+![](/images/2024-Review/18.jpg)
 {% endgp %}
 
 ## 文娱
@@ -114,26 +115,26 @@ tags:
 这一年去电影院看了 38 场电影，其中国内 10 场，新加坡 28 场。二刷了 Taylor Swift: The Eras Tour 和 Deadpool & Wolverine。
 
 {% gp 3-3 %}
-![](/images/Overview-of-2024/19.jpg)
-![](/images/Overview-of-2024/20.jpg)
-![](/images/Overview-of-2024/21.jpg)
+![](/images/2024-Review/19.jpg)
+![](/images/2024-Review/20.jpg)
+![](/images/2024-Review/21.jpg)
 {% endgp %}
 
 8 月初，hybest 大佬抽中了两张 NDP (National Day Parade) Preview 的票，邀请我一起去参加。虽然只是预演，但还是挺震撼的。
 
-![](/images/Overview-of-2024/22.jpg)
+![](/images/2024-Review/22.jpg)
 
 9 月初，趁着 Night Festival 最后一天，感受了下新加坡的夜生活。
 
-![](/images/Overview-of-2024/23.jpg)
+![](/images/2024-Review/23.jpg)
 
 中秋节，去 Gardens by the Bay 看了中秋限定的 Supertree 灯光秀。
 
-![](/images/Overview-of-2024/24.jpg)
+![](/images/2024-Review/24.jpg)
 
 11 月初，漫威新剧 Agatha All Along 刚播完，新加坡就有联动活动，一探女巫之路。
 
-![](/images/Overview-of-2024/25.jpg)
+![](/images/2024-Review/25.jpg)
 
 新加坡虽不大，但对于爱看电影的我而言，有同步全球的电影，还有各种各样的活动，这也是吸引我过来的一个原因。
 
@@ -154,8 +155,8 @@ tags:
 这次旅行是第一次没有工作打扰的旅行，因为回去后就离职了。虽然只有四天，但玩得还是挺开心的。下次再来日本，大概率就是从新加坡出发了。
 
 {% gp 2-2 %}
-![](/images/Overview-of-2024/26.jpg)
-![](/images/Overview-of-2024/27.jpg)
+![](/images/2024-Review/26.jpg)
+![](/images/2024-Review/27.jpg)
 {% endgp %}
 
 ## 澳大利亚塔州之旅
@@ -176,9 +177,9 @@ tags:
 这是我第一次出亚洲，澳洲的自然风光不错，物价和新加坡相比也稍低一些。只可惜这次由于时间原因，没在墨尔本停留，悉尼也只待了一天，下次再来吧。
 
 {% gp 3-3 %}
-![](/images/Overview-of-2024/28.jpg)
-![](/images/Overview-of-2024/29.jpg)
-![](/images/Overview-of-2024/30.jpg)
+![](/images/2024-Review/28.jpg)
+![](/images/2024-Review/29.jpg)
+![](/images/2024-Review/30.jpg)
 {% endgp %}
 
 ## 马来西亚周末之旅
@@ -192,8 +193,8 @@ tags:
 第三趟是吉隆坡。吉隆坡的物价稍高，且城市交通比较混乱，给我留下了不太好的印象。
 
 {% gp 2-2 %}
-![](/images/Overview-of-2024/31.jpg)
-![](/images/Overview-of-2024/32.jpg)
+![](/images/2024-Review/31.jpg)
+![](/images/2024-Review/32.jpg)
 {% endgp %}
 
 # 尾巴
