@@ -4,7 +4,7 @@ date: 2016-03-20 23:39:30
 comments: false
 ---
 
-Hi! My name is **Lichao Fei** (aka **@ntflc** elsewhere).
+Hi! My name is **Lichao** (aka **@ntflc** elsewhere).
 
 I am currently a Software Development Engineer in Test. I previously developed custom ROMs for HTC devices and served as a moderator for the HTC One (M8) and HTC One M9 sections on Gfan forum (机锋论坛).
 
